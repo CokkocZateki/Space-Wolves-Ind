@@ -29,7 +29,11 @@ one window, next to the game.
 2. Run it. Windows SmartScreen will warn about an unrecognised publisher —
    **More info → Run anyway**. The installer is not code-signed; a certificate
    costs more per year than this project spends on everything else.
-3. Click **add character** and log in through EVE SSO.
+
+<img width="526" height="490" alt="image" src="https://github.com/user-attachments/assets/baa63800-7a22-4624-bb63-34331b19dc60" />
+
+   
+4. Click **add character** and log in through EVE SSO.
 
 The login opens **your own browser**, never a window inside the app. CCP asks
 that third-party tools do not put a login form in an embedded window, and an
