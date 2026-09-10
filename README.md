@@ -32,7 +32,7 @@ one window, next to the game.
 
 <img width="526" height="490" alt="image" src="https://github.com/user-attachments/assets/baa63800-7a22-4624-bb63-34331b19dc60" />
 
-3. Install the application in your desired location.
+3. Install (Run anyway) the application in your desired location.
 
    <img width="537" height="509" alt="image" src="https://github.com/user-attachments/assets/3fe9aa28-65b2-4f73-a5ac-0a9a6ed35f24" />
 
