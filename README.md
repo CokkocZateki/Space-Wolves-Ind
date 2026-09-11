@@ -34,7 +34,8 @@ one window, next to the game.
 
 3. Install (Run anyway) the application in your desired location.
 
-   <img width="537" height="509" alt="image" src="https://github.com/user-attachments/assets/3fe9aa28-65b2-4f73-a5ac-0a9a6ed35f24" />
+   <img width="528" height="502" alt="image" src="https://github.com/user-attachments/assets/d2bde92b-a928-4f65-9735-2c5410551296" />
+
 
    
 5. Click **add character** and log in through EVE SSO.
